@@ -1,2 +1,1 @@
-# WutheringHeightsAI.github.io
-H's personal website
+# H's personal website
